@@ -7,7 +7,7 @@ about:
   head: cffa246
   archived: false
   latestVersion: v0.3.2
-  collectedAt: 2026-09-04T19:18:54Z
+  collectedAt: 2026-09-04T21:14:58Z
 timeline:
   created: 2017-09-08
   lastCommit: 2019-05-01
@@ -81,6 +81,29 @@ total:
   openIssue: 31
   commit: 593
 ---
+path: /home/runner/.x-repo/github.com/rgburke/grv
+collectedAt: 2026-09-04T21:14:59Z
+loc:
+  Go:
+    code: 29117
+    comments: 1121
+    blanks: 5991
+    files: 83
+  Makefile:
+    code: 63
+    comments: 3
+    blanks: 17
+    files: 1
+  Markdown:
+    code: 0
+    comments: 762
+    blanks: 251
+    files: 3
+total:
+  code: 29180
+  comments: 1886
+  blanks: 6259
+  files: 87
 ---
 date: "2026-08-24"
 repo:
